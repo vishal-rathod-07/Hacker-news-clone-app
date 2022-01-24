@@ -1,0 +1,31 @@
+.logo{
+    height: 2vh;
+    width: 2vh;
+    margin-top: 0.2rem;
+    border: 1px white solid;
+    
+}
+
+body{
+    margin: 2rem;
+}
+
+
+#navigation a {
+    display: block;
+    text-align: left;
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.list-item-inline{
+    display: inline;
+    
+}
+
+#navigation{
+    background-color: #fb6518;
+    
+}
