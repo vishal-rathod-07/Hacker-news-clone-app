@@ -16,23 +16,13 @@ a{
     text-decoration: none;
 }
 
-.navigation ul li {
-    display: inline-block;
-    line-height: 30px;
-    margin: 0 5px;
-}
-
-.navigation ul li a{
-    color: black;
-    font-size: 17px;
-    text-decoration: none;
-}
-
-
 .navigation{
     background-color: #fb6518;
-    
+    height: 4vh;
+      
 }
+
+
 
 .main{
     background-color: whitesmoke;
@@ -52,3 +42,4 @@ footer{
     line-height: 30px;
     margin: 0 5px;
 }
+
